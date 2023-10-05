@@ -1,0 +1,12 @@
+C:\Users\sopor\OneDrive\Escritorio\Fox\Fox\Fox\bin\Release\Fox.exe.config
+C:\Users\sopor\OneDrive\Escritorio\Fox\Fox\Fox\bin\Release\Fox.exe
+C:\Users\sopor\OneDrive\Escritorio\Fox\Fox\Fox\bin\Release\Fox.pdb
+C:\Users\sopor\OneDrive\Escritorio\Fox\Fox\Fox\bin\Release\Leaf.xNet.dll
+C:\Users\sopor\OneDrive\Escritorio\Fox\Fox\Fox\bin\Release\Newtonsoft.Json.dll
+C:\Users\sopor\OneDrive\Escritorio\Fox\Fox\Fox\bin\Release\Leaf.xNet.xml
+C:\Users\sopor\OneDrive\Escritorio\Fox\Fox\Fox\bin\Release\Newtonsoft.Json.xml
+C:\Users\sopor\OneDrive\Escritorio\Fox\Fox\Fox\obj\Release\Fox.csproj.AssemblyReference.cache
+C:\Users\sopor\OneDrive\Escritorio\Fox\Fox\Fox\obj\Release\Fox.csproj.CoreCompileInputs.cache
+C:\Users\sopor\OneDrive\Escritorio\Fox\Fox\Fox\obj\Release\Fox.csproj.CopyComplete
+C:\Users\sopor\OneDrive\Escritorio\Fox\Fox\Fox\obj\Release\Fox.exe
+C:\Users\sopor\OneDrive\Escritorio\Fox\Fox\Fox\obj\Release\Fox.pdb
